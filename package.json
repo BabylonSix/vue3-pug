@@ -1,0 +1,10 @@
+{
+  "name": "@wcd/babylonsix.vue3-pug-fork-lbq90a84",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve yBWnB9QWV0vZBHijIVpd --open"
+  },
+  "dependencies": {
+    "vue": "next"
+  }
+}
